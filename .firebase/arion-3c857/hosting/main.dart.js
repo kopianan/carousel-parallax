@@ -38466,8 +38466,7 @@ A.DA.prototype={
 O(a){return new A.tv(B.zX,"Flutter Demo",A.abr(null,A.amj(B.P,B.Ep),A.avt().$0(),!0),null)}}
 A.it.prototype={}
 A.rT.prototype={
-au(){var s="Find deep inner peace through our private guided meditation",r="Title 1"
-return new A.Jw(A.DX(0,1),A.a([new A.jk("assets/icons/dining.png","Dining"),new A.jk("assets/icons/spa.png","Spa"),new A.jk("assets/icons/experiences.png","Experiences"),new A.jk("assets/icons/tram.png","Tram"),new A.jk("assets/icons/room_service.png","Room Service")],t.EF),A.a([new A.it(r,s,"assets/imgs/img1.jpg"),new A.it(r,s,"assets/imgs/img2.jpg"),new A.it(r,s,"assets/imgs/img3.jpg"),new A.it(r,s,"assets/imgs/img4.jpg"),new A.it(r,s,"assets/imgs/img5.jpg"),new A.it(r,s,"assets/imgs/img6.jpg")],t.iQ),B.l)}}
+au(){return new A.Jw(A.DX(0,1),A.a([new A.jk("assets/icons/dining.png","Dining"),new A.jk("assets/icons/spa.png","Spa"),new A.jk("assets/icons/experiences.png","Experiences"),new A.jk("assets/icons/tram.png","Tram"),new A.jk("assets/icons/room_service.png","Room Service")],t.EF),A.a([new A.it("Thalassotherapy Pool","Float, move or excercise your way through a series of hydromassages station","assets/imgs/img1.jpg"),new A.it("Rock Bar","Cocktails anidst 180 degrees of crashing waves, jagged limestone cliffs, and the best sunset in bali","assets/imgs/img2.jpg"),new A.it("Sunrise Yoga","Sun salutation pair with the suit sound of the morning birds and crashing waves","assets/imgs/img3.jpg"),new A.it("Kubu Beach","Spend the day in our private, white sand beach exclusive to guests of AYANA Estate","assets/imgs/img4.jpg"),new A.it("Dinner and Show","Misticle night of dinner and dance at Kampoeng Bali","assets/imgs/img5.jpg"),new A.it("Farm-to-Bar-Workshop","Craft your own cocktails with fresh organic ingredients picked from Ayana Farm","assets/imgs/img6.jpg")],t.iQ),B.l)}}
 A.Jw.prototype={
 aO(){this.d=A.DX(0,0.7)
 this.b9()},
