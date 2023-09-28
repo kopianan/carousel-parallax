@@ -133,35 +133,35 @@ class _HomePageState extends State<HomePage> {
 
   final List<CardInfoModel> imgList = [
     CardInfoModel(
-        description:
-            "Find deep inner peace through our private guided meditation",
-        imageAsset: 'assets/imgs/img1.jpg',
-        title: "Title 1"),
+      description:
+          "Float, move or excercise your way through a series of hydromassages station",
+      imageAsset: 'assets/imgs/img1.jpg',
+      title: "Thalassotherapy Pool",
+    ),
     CardInfoModel(
         description:
-            "Find deep inner peace through our private guided meditation",
+            "Cocktails anidst 180 degrees of crashing waves, jagged limestone cliffs, and the best sunset in bali",
         imageAsset: 'assets/imgs/img2.jpg',
-        title: "Title 1"),
+        title: "Rock Bar"),
     CardInfoModel(
         description:
-            "Find deep inner peace through our private guided meditation",
+            "Sun salutation pair with the suit sound of the morning birds and crashing waves",
         imageAsset: 'assets/imgs/img3.jpg',
-        title: "Title 1"),
+        title: "Sunrise Yoga"),
     CardInfoModel(
         description:
-            "Find deep inner peace through our private guided meditation",
+            "Spend the day in our private, white sand beach exclusive to guests of AYANA Estate",
         imageAsset: 'assets/imgs/img4.jpg',
-        title: "Title 1"),
+        title: "Kubu Beach"),
     CardInfoModel(
-        description:
-            "Find deep inner peace through our private guided meditation",
+        description: "Misticle night of dinner and dance at Kampoeng Bali",
         imageAsset: 'assets/imgs/img5.jpg',
-        title: "Title 1"),
+        title: "Dinner and Show"),
     CardInfoModel(
       description:
-          "Find deep inner peace through our private guided meditation",
+          "Craft your own cocktails with fresh organic ingredients picked from Ayana Farm",
       imageAsset: 'assets/imgs/img6.jpg',
-      title: "Title 1",
+      title: "Farm-to-Bar-Workshop",
     ),
   ];
 }
