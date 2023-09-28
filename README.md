@@ -1,16 +1,19 @@
-# ayana_test
+# Ayana App Front Page
+***Project Info***
 
-A new Flutter project.
+- Flutter v.3.10.6
 
-## Getting Started
+***How To Use***
+- Pull Project 
+- Open with VS-Code or Android Studio 
+- run ```flutter pub get```
+- Run with browser 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+***How To Build***
+- Build web with ```flutter build web```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+***Note***
+For the preview, please visit this link : 
+<br>https://arion-3c857.firebaseapp.com/#/
