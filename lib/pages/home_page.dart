@@ -37,6 +37,7 @@ class _HomePageState extends State<HomePage> {
             slivers: [
               const SliverAppBar(
                 floating: true,
+                centerTitle: true,
                 forceElevated: true,
                 pinned: true,
                 backgroundColor: Colors.white,

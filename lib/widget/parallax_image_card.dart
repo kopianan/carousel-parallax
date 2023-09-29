@@ -33,13 +33,20 @@ class ParallaxImageCard extends StatelessWidget {
                 backgroundImageKey: _imageKey,
               ),
               children: [
-                Image.asset(
-                  info.imageAsset,
-                  color: Colors.transparent.withBlue(100),
+                Image(
+                  image: AssetImage(
+                    info.imageAsset,
+                  ), 
                   key: _imageKey,
                   height: double.infinity,
                   fit: BoxFit.fitHeight,
                 ),
+                // Image.asset(
+                //   info.imageAsset, 
+                //   key: _imageKey,
+                //   height: double.infinity,
+                //   fit: BoxFit.fitHeight,
+                // ),
               ],
             ),
             Positioned(
