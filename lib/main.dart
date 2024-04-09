@@ -1,9 +1,15 @@
 import 'package:ayana_test/pages/home_page.dart';
+import 'package:device_preview/device_preview.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(DevicePreview(
+    enabled: true,
+    builder: (BuildContext context) {
+      return const MyApp();
+    },
+  ));
 }
 
 class MyApp extends StatelessWidget {

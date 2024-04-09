@@ -43,7 +43,7 @@ class _HomePageState extends State<HomePage> {
                 backgroundColor: Colors.white,
                 surfaceTintColor: Colors.white,
                 title: Text(
-                  "AYANA",
+                  "KOPIANAN",
                   style: TextStyle(
                     fontWeight: FontWeight.bold,
                   ),
